@@ -21,7 +21,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="MySql.EntityFrameworkCore" Version="7.0.5" />
-    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="117.0.5938.9200" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="119.0.6045.10500" />
   </ItemGroup>
 
   <ItemGroup>
